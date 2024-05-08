@@ -1,0 +1,20 @@
+.sectionStyle {
+  padding: 160px 80px;
+}
+
+.aboutUs {
+  display: flex;
+  gap: 327px;
+}
+
+.aboutUs h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.aboutUs p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 27px;
+}
